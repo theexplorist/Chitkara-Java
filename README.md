@@ -32,3 +32,18 @@ Map                   |   Get    | ContainsKey | Data Structure
 HashMap               | O(1)     |   O(1)      | Hash Table
 LinkedHashMap         | O(1)     |   O(1)      |Hash Table + Linked List
 TreeMap               | O(log n) |   O(log n)  | Red-black tree
+
+#Leetcode Tree Important Questions
+
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+https://leetcode.com/problems/binary-tree-right-side-view/
+https://leetcode.com/problems/diameter-of-binary-tree/submissions/
+https://leetcode.com/problems/search-in-a-binary-search-tree/
+https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+https://leetcode.com/problems/binary-tree-level-order-traversal/
+https://leetcode.com/problems/binary-tree-preorder-traversal/
+https://leetcode.com/problems/binary-tree-postorder-traversal/
+https://leetcode.com/problems/binary-tree-inorder-traversal/
+https://leetcode.com/problems/insert-into-a-binary-search-tree/
