@@ -33,7 +33,7 @@ HashMap               | O(1)     |   O(1)      | Hash Table
 LinkedHashMap         | O(1)     |   O(1)      |Hash Table + Linked List
 TreeMap               | O(log n) |   O(log n)  | Red-black tree
 
-# Leetcode Tree Important Questions
+# Leetcode Tree Important Questions Done
 
 https://leetcode.com/problems/maximum-depth-of-binary-tree/ <br>
 https://leetcode.com/problems/binary-tree-right-side-view/ <br>
