@@ -21,6 +21,16 @@ public class InsertBST {
 		}
 	}
 	class Solution {
+		
+		public int min(TreeNode root) {
+			
+			if(root.left == null) {
+				return root.val;
+			}
+			int leftA = min(root.left);
+			
+			return leftA;
+		}
 	    public void insertIntoBST(TreeNode root, int val) {
 	        if(root.val < val) {
 	        	if(root.right == null) {
